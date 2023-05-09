@@ -1,0 +1,24 @@
+[
+  {
+    "token":"12345845778484841818481",
+    "nhsnumber":"1234567899",
+    "password":"password",
+    "forename":"John",
+    "surname":"Smith",
+    "dob":"12 Jan 1995",
+    "gender":"Male",
+    "bloodgroup":"B+",
+    "postcode":"E12 G46"
+  },
+  {
+    "token":"12345845778484841818482",
+    "nhsnumber":"1234567123",
+    "password":"123456",
+    "forename":"Mueed",
+    "surname":"Hussain",
+    "dob":"12 Feb 1998",
+    "gender":"Male",
+    "bloodgroup":"O+",
+    "postcode":"E17 G69"
+  }
+]

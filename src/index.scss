@@ -1,0 +1,33 @@
+@import "node_modules/govuk-frontend/govuk/all";
+
+.card {
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 2% 3%;
+	box-shadow: 0px 0px 10px 0px #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tile {
+	background-color: #fff;
+	border-radius: 10px;
+	padding: 2% 3%;
+	box-shadow: 0px 0px 10px 0px #ccc;
+    margin-top: 20px;
+    margin-bottom: 20px;
+	width: 15%;
+	height: 70px;
+	flex: 1 0 21%; /* explanation below */
+  	margin: 5px;
+
+}
+
+.tile-container {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.selected{
+	background-color: #1d70b8;
+}
